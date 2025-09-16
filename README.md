@@ -37,7 +37,7 @@
 ## 🚀 Featured Projects
 
 ### 🌟 [Glow In](#)
-**Swift app co-developed and fully designed for "Everyone Can Code Chicago" internship.**  
+**Swift app co-developed and fully designed for my Everyone Can Code Chicago internship.**  
 A mental health app inspired by Apple's prompt to help shape a healthier society.  
 Inclusive, accessible, and designed for everyone.  
 *My proudest achievement in blending design and technology for real-world impact.*
@@ -55,3 +55,4 @@ Inclusive, accessible, and designed for everyone.
 
 - [Portfolio Site](https://hooriyakazmi.github.io/portfolios/)
 - GitHub: [@hooriyakazmi](https://github.com/hooriyakazmi)
+- LinkedIn:(www.linkedin.com/in/hkazmi1)
